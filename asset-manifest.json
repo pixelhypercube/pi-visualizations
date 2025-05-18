@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff977091.css",
+    "main.js": "/static/js/main.367a4a25.js",
+    "static/js/453.3ca4a500.chunk.js": "/static/js/453.3ca4a500.chunk.js",
+    "static/media/Rubik.ttf": "/static/media/Rubik.3a4acc0356c6ea73f2c3.ttf",
+    "index.html": "/index.html",
+    "main.ff977091.css.map": "/static/css/main.ff977091.css.map",
+    "main.367a4a25.js.map": "/static/js/main.367a4a25.js.map",
+    "453.3ca4a500.chunk.js.map": "/static/js/453.3ca4a500.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff977091.css",
+    "static/js/main.367a4a25.js"
+  ]
+}
