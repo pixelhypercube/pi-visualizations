@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Rubik";
+    src: url("../fonts/Rubik.ttf");
+}
+
+* {
+    font-family: 'Rubik';
+}
+
+header {
+    background-color: aliceblue;
+    padding:30px;
+    text-align: center;
+}
+
+main {
+    text-align: center;
+    height:100%;
+}
+
+footer {
+    background-color: aliceblue;
+    padding:30px;
+    text-align: center;
+}
